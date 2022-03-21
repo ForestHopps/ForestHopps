@@ -1,10 +1,10 @@
 - Hi, I’m @ForestHopps,
 
-- I’m interested in learning languages such as Java, Python, and how to use Kali.
+- I am a Psychology Major with a Buisness Minor, looking to enter the field of Computer Science and Cyber Security
 
-- I can be reached at Foresthopps@gmail.com
+- I’m interested in learning and developing my skills in languages including Go, Python, and JavaScript
 
-<!---
-ForestHopps/ForestHopps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Open to contact regarding more chances to learn and develop new skills
+
+- I can be reached at Foresthopps@gmail.com / hoppsfa@miamioh.edu
+
